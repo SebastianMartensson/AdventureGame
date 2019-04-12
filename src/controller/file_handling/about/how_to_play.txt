@@ -1,0 +1,23 @@
+***************The Dark Caves of Rafell Abyss***************
+
+**************************Help******************************
+
+The goal of this game is to kill any monster you encounter to
+gain experience and level up. For each level you get stronger
+and can eventually kill the final boss. During game play it
+is possible to collect new weapons, potions, keys and trea-
+sures.
+
+When you enter game you are in the starting room and your only
+equipment is a club. Use the keys display in the navigation
+menu to move between the rooms. Beware that some rooms are 
+guarded by monsters. If a room is locked you need to open it
+with a key found in various rooms. 
+
+Each treasure found is worth a various amount of points. The
+more points you have when killing the boss the higher score 
+you will get. The game is completed when the boss dies.
+For every monster you kill 20 points are added to your score.
+For every movement turn you get minus 5 points to the score.
+
+************************************************************

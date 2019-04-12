@@ -1,0 +1,17 @@
+***************The Dark Caves of Rafell Abyss***************
+
+***************************About****************************
+
+The game is dungeon and dragons inspired designed in a text-
+based environment. The player can choose between different
+classes before entering a world of rooms with different
+characteristics, items to aid you, various monsters and trea
+sures. 
+
+The goal is to gain experience by defeating monsters
+to increase the strength of the hero before facing the final
+boss. In addition, the player can acquire points by gathering
+treasure chests before engaging the boss and conquering the
+highest score.
+
+************************************************************

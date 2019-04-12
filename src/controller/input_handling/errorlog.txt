@@ -1,0 +1,3 @@
+Incorrect format: java.io.NotSerializableException: controller.file_handling.SavedGame
+Incorrect format: java.io.NotSerializableException: controller.monster_logic.MonsterLogic
+Incorrect format: java.io.NotSerializableException: controller.monster_logic.MonsterLogic
